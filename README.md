@@ -1,2 +1,1 @@
 # Udacity_DL_Project3_Generating_a_script
-# Udacity_DL_Project3_Generating_a_script
